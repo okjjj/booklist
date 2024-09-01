@@ -4,5 +4,5 @@ guide:
 
 - fiction: fiction books
 - nonfiction: nonfiction, poetry books
-- oversized: art books, programming books, comics, zine collections
+- oversized: books that are oversized. art and photobooks but also related (programming books, comics, zine collections)
 - zines: individual issues
