@@ -1,0 +1,4 @@
+title,"author/editor",publisher,year,notes
+"10 PRINT CHR$(205.5+RND(1)); : GOTO 10","Nick Montfort, Patsy Baudoin, etc",mit press,2022,""
+the new analog,damon krukowski,the new press,2017,""
+the palestine laboratory,antony loewenstein,verso,2023,""
